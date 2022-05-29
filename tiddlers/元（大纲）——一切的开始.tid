@@ -1,7 +1,7 @@
 created: 20220529011834118
 creator: Clear8Heart
 icon: 🌠
-modified: 20220529014411327
+modified: 20220529015709031
 modifier: Clear8Heart
 page-cover: https://source.unsplash.com/random
 title: 元（大纲）——一切的开始
@@ -9,10 +9,10 @@ type: text/vnd.tiddlywiki
 
 ! 它包含下面的内容：
 
-[[经济学]]
+!![[经济学]]
 
-[[认知]]
+!![[认知]]
 
-[[想法]]
+!![[想法]]
 
-[[待办清单]]
+!![[待办清单]]
