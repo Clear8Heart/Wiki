@@ -257,6 +257,15 @@
             "static": false
         },
         {
+            "w": 1,
+            "h": 1,
+            "x": 0,
+            "y": 13,
+            "i": "$:/plugins/kookma/thinkup/ui/sidebar",
+            "moved": false,
+            "static": false
+        },
+        {
             "w": 4,
             "h": 1,
             "x": 0,
