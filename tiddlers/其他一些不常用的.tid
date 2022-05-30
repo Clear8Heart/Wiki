@@ -1,0 +1,26 @@
+created: 20220530063121316
+creator: Clear8Heart
+modified: 20220530064505099
+modifier: Clear8Heart
+title: 其他一些不常用的
+type: text/vnd.tiddlywiki
+
+1.使用三个"""可以换行
+2.使用!!!当标题
+3.使用三个---单独一行可作为分隔线
+---
+4.图片
+格式:
+`[img[图片的注释|https://source.unsplash.com/random]]`
+5.链接
+`[[链接名称|网址]]`
+6.清单
+可以使用`*`表示一个完成的清单
+`**`表示一个没有完成的清单
+`#`是一个数字清单
+示例:
+
+*完成的清单
+**没有完成的清单
+#一号
+#二号
