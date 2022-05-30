@@ -1,0 +1,21 @@
+created: 20220530055654614
+creator: Clear8Heart
+modified: 20220530060747817
+modifier: Clear8Heart
+title: 定义
+type: text/vnd.tiddlywiki
+
+定义分为定义名称和定义内容两个部分,使用";"创建定义名称.下一行使用":"创建定义内容
+
+示例:
+
+```
+;定义名称
+:定义内容
+```
+
+它的结果是:
+
+;定义名称
+
+:定义内容

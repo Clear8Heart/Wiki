@@ -1,0 +1,14 @@
+created: 20220530060829662
+creator: Clear8Heart
+modified: 20220530061342100
+modifier: Clear8Heart
+title: 文本格式
+type: text/vnd.tiddlywiki
+
+*'反引号'用于代码
+*''粗体''给字体加粗
+*//斜体//是斜体字
+*__底线__ 加个底线
+*^^上标^^是把文字加上标
+*,,下标,,是把文字加下标
+*~~这是删除~~ 删除线
